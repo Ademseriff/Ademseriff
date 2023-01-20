@@ -4,11 +4,10 @@
 <br/>
 
 ### Ben Kimim
-- :computer:BŞEÜ  BARÜ 4 . sınıf öğrencisiyim.  
-- :computer:Java ve C# da orta düzey bilgi birikimine sahibim. 
-- :computer:Full Stack Developer olmak için çabalıyorum. 
+- :computer:  BARÜ 4 . sınıf öğrencisiyim.  
+- :computer:Java,C# ,C, C++da orta düzey bilgi birikimine sahibim. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
-- 📫 Bana ulaşmak isterseniz *onursonmez3437@gmail.com* adresini kullanabilirsiniz. 
+- 📫 Bana ulaşmak isterseniz *ademseriffd@gmail.com* adresini kullanabilirsiniz. 
 
 
 <p align="center"> 
