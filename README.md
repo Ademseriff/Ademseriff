@@ -32,7 +32,6 @@
 
 <p align="center">
   
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
 
 </p>
@@ -48,9 +47,3 @@
 <code><img height="40" width="40" src="https://github.com/onursonmez37/PatikaJava101/blob/main/Maa%C5%9FHesaplama/png/dreamwewar.png"></code>
  <code><img height="40" width="40" src="https://github.com/onursonmez37/PatikaJava101/blob/main/Maa%C5%9FHesaplama/png/png-transparent-android-studio-integrated-development-environment-software-development-emulator-android-logo-emulator-mobile-app-development.png"></code>
 </p>
-<h2 align="center">👩‍🖍📐 Design</h2>
-
-<p align="center">
-  
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png">
-<code><img height="40" width="40" src="https://github.com/onursonmez37/PatikaJava101/blob/main/Maa%C5%9FHesaplama/png/adobe-fireworks-cs6-logo-43F54335BF-seeklogo.com.png"></code>
