@@ -4,8 +4,8 @@
 <br/>
 
 ### Ben Kimim
-- :computer:  BARÜ 4 . sınıf öğrencisiyim.  
-- :computer:Java,C# ,C, C++da orta düzey bilgi birikimine sahibim. 
+- :computer: Bilgisayar Mühendisi  
+- :computer:C# ,dotnet,angular,html,css orta düzey bilgi birikimine sahibim. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz *ademserifd@gmail.com* adresini kullanabilirsiniz. 
 
